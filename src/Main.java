@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Задание 1");
-        printYear(2022);
+        printYear(2023);
 
         System.out.println("Задание 2");
         printPhone(0, 2022);
