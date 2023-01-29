@@ -10,7 +10,7 @@ public class Main {
         printPhone(0, 2022);
 
         System.out.println("Задание 3");
-        deliversCard(200);
+        deliversCard(53);
 
 
     }
@@ -49,7 +49,7 @@ public class Main {
         if (days ==-1){
             System.out.println("Доставки нет");
         }else {
-            System.out.println(days + " дней потребуется на доставку");
+            System.out.println(days + " дня потребуется на доставку");
 
         }
 
